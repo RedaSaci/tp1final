@@ -1,0 +1,25 @@
+body{
+    font-family: Arial,  sans-serif;
+    background-image: url(/img/to-do-list.jpeg);
+  
+    background-size: cover;
+}
+.container{
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    background-color: #f9f9f9;
+    align-items: center;
+   
+}
+h1{text-align: center;}
+
+button{border: solid;
+border-radius: 10px;
+transition: 0.2s;}
+button:hover{
+border-color: rgb(163, 39, 39);}
+
+.barre{padding: 0.5em 1em;}
